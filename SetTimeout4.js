@@ -8,3 +8,5 @@ function lanciaDadi(dado1,dado2){
     dado2 = Math.floor(Math.random() * 6)+1;
     return console.log(`Dado 1 = ${dado1}, Dado 2 = ${dado2}`)
 }
+    console.log("Lancio dei dadi in corso...")
+    setTimeout(lanciaDadi,2000)
