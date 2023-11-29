@@ -1,2 +1,2 @@
-# pairing
-esercizio_pairing
+# pair
+esercizio_pair
